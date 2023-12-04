@@ -7,8 +7,6 @@
 -   CentOS, Ubuntu, Nginx, Apache, MySQL, PostgreSQL, MongoDB, Git.
 -   Nodejs, ExpressJS, React, Docker.
 
-📫 Contact me at **bnnguyen8@gmail.com** or my website <a href="https://bnnguyen.ca/"> **https://bnnguyen.ca/**</a> (I use this website and server to run background tasks for what I've been working on)
-
 -   ⚡ Fun fact **: I am a cooperative individual to collaborate with.**
 
 <h3 align="left">Connect with me:</h3>
